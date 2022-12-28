@@ -1,0 +1,39 @@
+body{
+    font-family: Epilogue;
+
+}
+
+.navbar{
+    width: 100%;
+    background-color: rgba(0, 133, 117, 0.86);
+    display: flex;
+    height:5rem;
+    color:white;
+    justify-content: space-between;
+
+}
+
+.navbar-left{
+    display: flex;
+}
+.logo-img{
+    
+    transform:scale(0.8);
+}
+.title-text{
+    padding:1.8rem 1rem;
+    font-size: 1.5rem;
+}
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+
+}
+li{
+    float:left;
+    display:block;
+    padding:2rem 2rem;
+    text-decoration: none;
+}

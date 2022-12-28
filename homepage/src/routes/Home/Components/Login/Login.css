@@ -1,0 +1,55 @@
+img{
+    width:100%;
+}
+
+.background{
+    background-image: url(./background.jpeg);
+    width:100%;
+    margin: 0;
+    height:30rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.login-box{
+    margin:8rem;
+    padding: 1rem 2rem;
+    background-color: rgba(0, 103, 90, 0.6);
+    width:15rem;
+    height:15rem;
+    text-align: left;
+    color:white;
+    font-size: 1.5rem;
+    border-radius: 15px;
+}
+.login{
+    margin-top: 3rem;
+}
+
+.student-btn,.recruiter-btn{
+    width:12rem;
+    height:2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background:#03A38F;
+    color:white;
+    border-radius:10px;
+    font-family: Epilogue;
+    border-color: white;
+    font-size: 1rem;
+}
+
+.we-care-box{
+    margin: 10rem 17rem 10rem 5rem;
+    font-size: 5rem;
+}
+.we-care{
+    color:white;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.4);
+}
+
+.for-your
+{
+    color:#03A38F;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.4);
+}
